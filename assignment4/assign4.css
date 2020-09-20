@@ -1,0 +1,39 @@
+
+
+body{
+  font-family: sans-serif ;
+  background-image: url(creativetech.jpeg);
+}
+h1{
+  color: #f5bc42;
+  font-style: italic;
+  font-weight: normal;
+}
+h2{
+  color: #f5bc42;
+  font-style: italic;
+  font-weight: normal;
+}
+h3{
+  color: #f5bc42;
+  font-style: italic;
+  font-weight: normal;
+}
+h4{
+  color: #f5bc42;
+  font-style: italic;
+  font-weight: normal;
+}
+.textcenter{
+  text-align: center;
+}
+.textjustify{
+  text-align:justify;
+}
+.imgbox {
+  border: 20px solid #000000;
+  padding: 10px 10px 10px 10px;
+  margin: 20px 20px 0 0;
+  background-color: #ffffff;
+  width: 200px;
+}
